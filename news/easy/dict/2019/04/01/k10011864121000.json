@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>地下</rb><rt>ちか</rt></ruby>にうずもれて、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>のようになったもの。<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>や<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "石炭"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "あとにとどまらせる。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。",
+          "hyouki": [
+            "残す"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>暗</rb><rt>くら</rt></ruby>い<ruby><rb>中</rb><rt>なか</rt></ruby>での<ruby><rb>明</rb><rt>あか</rt></ruby>るい<ruby><rb>光</rb><rt>ひかり</rt></ruby>。",
+          "hyouki": [
+            "明かり"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るく<ruby><rb>照</rb><rt>て</rt></ruby>らす<ruby><rb>電灯</rb><rt>でんとう</rt></ruby>やろうそくなどの<ruby><rb>光</rb><rt>ひかり</rt></ruby>。",
+          "hyouki": [
+            "明かり"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。",
+          "hyouki": [
+            "旗"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ]
+    }
+  }
+}

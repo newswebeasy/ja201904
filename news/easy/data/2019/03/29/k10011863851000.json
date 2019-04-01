@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011863851000",
+  "news_prearranged_time": "2019-03-29 16:40:00",
+  "title": "水族館で２日続けてゴマフアザラシの赤ちゃんが生まれる",
+  "title_with_ruby": "<ruby>水族館<rt>すいぞくかん</rt></ruby>で<ruby>２日<rt>ふつか</rt></ruby><ruby>続<rt>つづ</rt></ruby>けてゴマフアザラシの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる",
+  "outline_with_ruby": "<p><ruby>山形県<rt>やまがたけん</rt></ruby><ruby>鶴岡市<rt>つるおかし</rt></ruby>の<ruby>加茂<rt>かも</rt></ruby><ruby>水族館<rt>すいぞくかん</rt></ruby>で<ruby>今月<rt>こんげつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>と２６<ruby>日<rt>にち</rt></ruby>にゴマフアザラシの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190328/../20190328/K10011863851_1903281113_1903281117_01_02.jpg",
+  "news_web_movie_uri": "k10011863851_201903281255_201903281259.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011863851000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011863851000/k10011863851000.html"
+}

@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。",
+          "hyouki": [
+            "水族館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>母</rb><rt>はは</rt></ruby>。",
+          "hyouki": [
+            "母親"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>芽</rb><rt>め</rt></ruby>や<ruby><rb>根</rb><rt>ね</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>る。また、のびて<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "生える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>歯</rb><rt>は</rt></ruby>やひげ、<ruby><rb>毛</rb><rt>け</rt></ruby>がのび<ruby><rb>出</rb><rt>で</rt></ruby>る。",
+          "hyouki": [
+            "生える"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ]
+    }
+  }
+}

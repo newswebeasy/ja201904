@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べる。<ruby><rb>勘定</rb><rt>かんじょう</rt></ruby>をする。",
+          "hyouki": [
+            "数える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>並</rb><rt>なら</rt></ruby>べあげる。",
+          "hyouki": [
+            "数える"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>で、あとつぎになる<ruby><rb>皇子</rb><rt>おうじ</rt></ruby>。",
+          "hyouki": [
+            "皇太子"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>奈良時代</rb><rt>ならじだい</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりごろにできた、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でもっとも<ruby><rb>古</rb><rt>ふる</rt></ruby>い<ruby><rb>歌集</rb><rt>かしゅう</rt></ruby>。さまざまな<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>歌</rb><rt>うた</rt></ruby>が<ruby><rb>約</rb><rt>やく</rt></ruby>４５００<ruby><rb>首</rb><rt>しゅ</rt></ruby>、２０<ruby><rb>巻</rb><rt>かん</rt></ruby>にまとめられている。<ruby><rb>大伴家持</rb><rt>おおとものやかもち</rt></ruby>が<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になって<ruby><rb>集</rb><rt>あつ</rt></ruby>めたといわれる。",
+          "hyouki": [
+            "万葉集"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。",
+          "hyouki": [
+            "梅"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "めいめい。おのおの。",
+          "hyouki": [
+            "それぞれ"
+          ]
+        }
+      ]
+    }
+  }
+}

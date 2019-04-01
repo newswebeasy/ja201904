@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>として<ruby><rb>外国</rb><rt>がいこく</rt></ruby>にいて、その<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役人</rb><rt>やくにん</rt></ruby>。<ruby><rb>大使</rb><rt>たいし</rt></ruby>・<ruby><rb>公使</rb><rt>こうし</rt></ruby>などがある。",
+          "hyouki": [
+            "外交官"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ]
+    }
+  }
+}

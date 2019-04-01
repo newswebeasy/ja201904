@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011865101000",
+  "news_prearranged_time": "2019-04-01 11:30:00",
+  "title": "台湾のＬＩＮＥ　情報が本当かうそか調べるサービス",
+  "title_with_ruby": "<ruby>台湾<rt>たいわん</rt></ruby>のＬＩＮＥ　<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>本当<rt>ほんとう</rt></ruby>かうそか<ruby>調<rt>しら</rt></ruby>べるサービス",
+  "outline_with_ruby": "<p><ruby>台湾<rt>たいわん</rt></ruby>では２１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がＬＩＮＥのアプリを<ruby>使<rt>つか</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190328/../20190328/K10011865101_1903282245_1903282246_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011865101000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011865101000/k10011865101000.html"
+}

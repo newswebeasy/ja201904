@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011868721000",
+  "news_prearranged_time": "2019-04-01 16:35:00",
+  "title": "新しい元号は「令和」に決まる",
+  "title_with_ruby": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>元号<rt>げんごう</rt></ruby>は「<ruby>令和<rt>れいわ</rt></ruby>」に<ruby>決<rt>き</rt></ruby>まる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>元号<rt>げんごう</rt></ruby></a>は<ruby>日本<rt>にっぽん</rt></ruby>にある<ruby>年<rt>とし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>数<rt>かぞ</rt></ruby>え</a><ruby>方<rt>かた</rt></ruby>で、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>天皇<rt>てんのう</rt></ruby></a>がかわるときに<ruby>新<rt>あたら</rt></ruby>しくなります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190401/../20190401/K10011868721_1904011143_1904011143_01_02.jpg",
+  "news_web_movie_uri": "k10011868721_201904011152_201904011153.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011868721000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011868721000/k10011868721000.html"
+}

@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などに<ruby><rb>乳酸菌</rb><rt>にゅうさんきん</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ヨーグルト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。",
+          "hyouki": [
+            "ラーメン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "むした<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>めんに<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>などを<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>焼</rb><rt>や</rt></ruby>いたりいためたりした<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。",
+          "hyouki": [
+            "焼きそば"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>加工</rb><rt>かこう</rt></ruby>した<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>を<ruby><rb>缶</rb><rt>かん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>長持</rb><rt>ながも</rt></ruby>ちするようにしたもの。",
+          "hyouki": [
+            "缶詰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>閉</rb><rt>と</rt></ruby>じこめること。",
+          "hyouki": [
+            "缶詰"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>に、<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけるために<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>塩</rb><rt>しお</rt></ruby>・<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>など。",
+          "hyouki": [
+            "調味料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>基本</rb><rt>きほん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一リットルは、１０００<ruby><rb>立方</rb><rt>りっぽう</rt></ruby>センチメートル。一<ruby><rb>辺</rb><rt>ぺん</rt></ruby>が１０センチメートルの<ruby><rb>立方体</rb><rt>りっぽうたい</rt></ruby>の<ruby><rb>体積</rb><rt>たいせき</rt></ruby>を一リットルとする。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「L」。",
+          "hyouki": [
+            "リットル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。",
+          "hyouki": [
+            "ペットボトル"
+          ]
+        }
+      ]
+    }
+  }
+}

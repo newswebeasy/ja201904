@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "料金"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "いくつかのものごとを<ruby><rb>結</rb><rt>むす</rt></ruby>びつけること。",
+          "hyouki": [
+            "リンク"
+          ]
+        },
+        {
+          "def": "インターネットで、ホームページなどから<ruby><rb>別</rb><rt>べつ</rt></ruby>のページに<ruby><rb>移</rb><rt>うつ</rt></ruby>ることができるようにすること。",
+          "hyouki": [
+            "リンク"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "マウスなどの<ruby><rb>入力装置</rb><rt>にゅうりょくそうち</rt></ruby>のボタンをおすこと。二<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>続</rb><rt>つづ</rt></ruby>けておすことをダブルクリックという。",
+          "hyouki": [
+            "クリック"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}

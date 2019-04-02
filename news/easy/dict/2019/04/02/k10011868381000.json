@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。",
+          "hyouki": [
+            "管理"
+          ]
+        },
+        {
+          "def": "よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。",
+          "hyouki": [
+            "管理"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "キリストが<ruby><rb>生</rb><rt>う</rt></ruby>まれたとされていた<ruby><rb>年</rb><rt>とし</rt></ruby>を<ruby><rb>紀元元年</rb><rt>きげんがんねん</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える、<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>の<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "西暦"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。",
+          "hyouki": [
+            "免許"
+          ]
+        },
+        {
+          "def": "<ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "免許"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "まちがっていないことを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにする。あかしをたてる。",
+          "hyouki": [
+            "証"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ある<ruby><rb>時</rb><rt>とき</rt></ruby>からある<ruby><rb>時</rb><rt>とき</rt></ruby>までと<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "期間"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>筆</rb><rt>ふで</rt></ruby>で、<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>。<ruby><rb>書</rb><rt>しょ</rt></ruby>。",
+          "hyouki": [
+            "書道"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ]
+    }
+  }
+}

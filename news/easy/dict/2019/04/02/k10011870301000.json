@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。",
+          "hyouki": [
+            "ワクチン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。",
+          "hyouki": [
+            "発疹"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。",
+          "hyouki": [
+            "妊娠"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "<ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。",
+          "hyouki": [
+            "心臓"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中央</rb><rt>ちゅうおう</rt></ruby>から<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>西</rb><rt>にし</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>の<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>府</rb><rt>ふ</rt></ruby>と、<ruby><rb>兵庫</rb><rt>ひょうご</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>・<ruby><rb>和歌山</rb><rt>わかやま</rt></ruby>・<ruby><rb>滋賀</rb><rt>しが</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "近畿地方"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011870301000",
+  "news_prearranged_time": "2019-04-02 16:05:00",
+  "title": "風疹になる人が増える　ワクチンの注射をしてほしい",
+  "title_with_ruby": "<ruby>風疹<rt>ふうしん</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　ワクチンの<ruby>注射<rt>ちゅうしゃ</rt></ruby>をしてほしい",
+  "outline_with_ruby": "<p><ruby>風疹<rt>ふうしん</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0001'>ウイルス</a>でうつる<ruby>病気<rt>びょうき</rt></ruby>で、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>発疹<rt>はっしん</rt></ruby></a>が<ruby>出<rt>で</rt></ruby>たりします。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190402/../20190402/K10011870301_1904021159_1904021225_01_02.jpg",
+  "news_web_movie_uri": "k10011870301_201904021238_201904021239.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011870301000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011870301000/k10011870301000.html"
+}

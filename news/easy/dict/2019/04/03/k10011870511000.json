@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかして、<ruby><rb>刑</rb><rt>けい</rt></ruby>の<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "刑務所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>から<ruby><rb>保護</rb><rt>ほご</rt></ruby>するように<ruby><rb>指定</rb><rt>してい</rt></ruby>された、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>建築物</rb><rt>けんちくぶつ</rt></ruby>・<ruby><rb>美術品</rb><rt>びじゅつひん</rt></ruby>などの<ruby><rb>文化財</rb><rt>ぶんかざい</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>にすぐれたものは<ruby><rb>国宝</rb><rt>こくほう</rt></ruby>に<ruby><rb>指定</rb><rt>してい</rt></ruby>される。<ruby><rb>重文</rb><rt>じゅうぶん</rt></ruby>。",
+          "hyouki": [
+            "重要文化財"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>をかざること。<ruby><rb>室内装飾</rb><rt>しつないそうしょく</rt></ruby>。",
+          "hyouki": [
+            "インテリア"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ]
+    }
+  }
+}

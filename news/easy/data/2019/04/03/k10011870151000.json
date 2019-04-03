@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011870151000",
+  "news_prearranged_time": "2019-04-03 11:30:00",
+  "title": "アメリカのワシントンで今年も桜の花が咲く",
+  "title_with_ruby": "アメリカのワシントンで<ruby>今年<rt>ことし</rt></ruby>も<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く",
+  "outline_with_ruby": "<p>アメリカの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>首都<rt>しゅと</rt></ruby></a>のワシントンにあるポトマック<ruby>川<rt>がわ</rt></ruby>のそばには、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>桜<rt>さくら</rt></ruby></a>の<ruby>木<rt>き</rt></ruby>が３０００<ruby>本<rt>ぼん</rt></ruby>ぐらいあります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190402/../20190402/K10011870151_1904020858_1904020926_01_02.jpg",
+  "news_web_movie_uri": "k10011870151_201904021240_201904021256.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011870151000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011870151000/k10011870151000.html"
+}

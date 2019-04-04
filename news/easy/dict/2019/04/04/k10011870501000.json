@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。",
+          "hyouki": [
+            "アニメーション"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>清書</rb><rt>せいしょ</rt></ruby>する<ruby><rb>前</rb><rt>まえ</rt></ruby>に、ためしに<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。",
+          "hyouki": [
+            "下書き"
+          ]
+        },
+        {
+          "def": "ざっと<ruby><rb>書</rb><rt>か</rt></ruby>いたままで、まだ<ruby><rb>直</rb><rt>なお</rt></ruby>してない<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "下書き"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くときの<ruby><rb>速</rb><rt>はや</rt></ruby>さや<ruby><rb>強</rb><rt>つよ</rt></ruby>さ。",
+          "hyouki": [
+            "勢い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>従</rb><rt>したが</rt></ruby>わせる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>勢力</rb><rt>せいりょく</rt></ruby>。",
+          "hyouki": [
+            "勢い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>行</rb><rt>ゆ</rt></ruby>き。",
+          "hyouki": [
+            "勢い"
+          ]
+        },
+        {
+          "def": "はずみ。",
+          "hyouki": [
+            "勢い"
+          ]
+        },
+        {
+          "def": "しぜんに。どうしても。",
+          "hyouki": [
+            "勢い"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。",
+          "hyouki": [
+            "緊張"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。",
+          "hyouki": [
+            "緊張"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ]
+    }
+  }
+}

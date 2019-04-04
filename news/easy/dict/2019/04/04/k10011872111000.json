@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ものごとの<ruby><rb>正</rb><rt>ただ</rt></ruby>しい<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>や<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "秩序"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。",
+          "hyouki": [
+            "命令"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "外務省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれていること。",
+          "hyouki": [
+            "調和"
+          ]
+        }
+      ]
+    }
+  }
+}

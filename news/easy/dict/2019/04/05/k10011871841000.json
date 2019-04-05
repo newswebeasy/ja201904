@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>がしたことで、いやな<ruby><rb>思</rb><rt>おも</rt></ruby>いをしたり<ruby><rb>困</rb><rt>こま</rt></ruby>ったりすること。",
+          "hyouki": [
+            "迷惑"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。",
+          "hyouki": [
+            "線路"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>くものをぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>になる。<ruby><rb>追</rb><rt>お</rt></ruby>いぬく。",
+          "hyouki": [
+            "追い越す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>行儀</rb><rt>ぎょうぎ</rt></ruby>。<ruby><rb>作法</rb><rt>さほう</rt></ruby>。",
+          "hyouki": [
+            "マナー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>口</rb><rt>くち</rt></ruby>あたりのよい、やわらかなアイスクリーム。ソフト。",
+          "hyouki": [
+            "ソフトクリーム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>野</rb><rt>の</rt></ruby>を<ruby><rb>楽</rb><rt>たの</rt></ruby>しみながら、<ruby><rb>歩</rb><rt>ある</rt></ruby>くこと。",
+          "hyouki": [
+            "ハイキング"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。",
+          "hyouki": [
+            "看板"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "看板"
+          ]
+        }
+      ]
+    }
+  }
+}

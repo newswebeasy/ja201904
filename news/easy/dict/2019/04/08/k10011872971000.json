@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。",
+          "hyouki": [
+            "電池"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。",
+          "hyouki": [
+            "ビザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "めいめい。おのおの。",
+          "hyouki": [
+            "それぞれ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。",
+          "hyouki": [
+            "合格"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "合格"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。",
+          "hyouki": [
+            "申し込み"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。にんず。",
+          "hyouki": [
+            "人数"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものごとが<ruby><rb>何回</rb><rt>なんかい</rt></ruby><ruby><rb>起</rb><rt>お</rt></ruby>こったか、<ruby><rb>行</rb><rt>おこな</rt></ruby>われたかという<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "回数"
+          ]
+        }
+      ]
+    }
+  }
+}

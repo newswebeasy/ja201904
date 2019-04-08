@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>が<ruby><rb>続</rb><rt>つづ</rt></ruby>くこと。また、<ruby><rb>続</rb><rt>つづ</rt></ruby>いた<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>。",
+          "hyouki": [
+            "連休"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>。",
+          "hyouki": [
+            "皇室"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "ツアー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "アンケート"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ]
+    }
+  }
+}

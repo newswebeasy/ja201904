@@ -51,6 +51,12 @@
   ],
   "relationLink": [
     {
+      "link": "https://www3.nhk.or.jp/news/special/heisei/interview/interview_05.html",
+      "title": "尾木直樹さん「なんていう不幸せな時代」",
+      "time": "平成-次代の道標-",
+      "datetime": ""
+    },
+    {
       "link": "http://www3.nhk.or.jp/news/html/20180809/k10011568861000.html",
       "title": "秋田犬 大人気ですが…ちょっと心配です",
       "time": "News Up 8月9日",
@@ -68,5 +74,5 @@
   "yyyy": "2019",
   "mm": "04",
   "dd": "06",
-  "url": "https://www3.nhk.or.jp/news/html/20190406/k10011874901000.html?utm_int=news-new_contents_list-items_028"
+  "url": "https://www3.nhk.or.jp/news/html/20190406/k10011874901000.html"
 }

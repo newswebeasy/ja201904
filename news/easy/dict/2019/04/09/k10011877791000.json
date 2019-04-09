@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ふだ。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>明治天皇</rb><rt>めいじてんのう</rt></ruby>が<ruby><rb>位</rb><rt>くらい</rt></ruby>にあった１８６８<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９１２<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>をやめ、<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>の<ruby><rb>進</rb><rt>すす</rt></ruby>んだ<ruby><rb>文明</rb><rt>ぶんめい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。",
+          "hyouki": [
+            "明治時代"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>昭和天皇</rb><rt>しょうわてんのう</rt></ruby>が<ruby><rb>位</rb><rt>くらい</rt></ruby>についていた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。１９２６<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１２月</rb><rt>じゅうにがつ</rt></ruby>から１９８９<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１月</rb><rt>いちがつ</rt></ruby>まで。",
+          "hyouki": [
+            "昭和時代"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>栄</rb><rt>さか</rt></ruby>えていくこと。<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが、のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がること。",
+          "hyouki": [
+            "発展"
+          ]
+        },
+        {
+          "def": "<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "発展"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。",
+          "hyouki": [
+            "留学"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>からできている、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ウイルスよりも<ruby><rb>大</rb><rt>おお</rt></ruby>きい。<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになる<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>や、<ruby><rb>物</rb><rt>もの</rt></ruby>をはっこうさせる<ruby><rb>乳酸菌</rb><rt>にゅうさんきん</rt></ruby>、くさらせるふはい<ruby><rb>菌</rb><rt>きん</rt></ruby>などがある。バクテリア。",
+          "hyouki": [
+            "細菌"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>傷口</rb><rt>きずぐち</rt></ruby>から、<ruby><rb>破傷風菌</rb><rt>はしょうふうきん</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>。",
+          "hyouki": [
+            "破傷風"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "偽物"
+          ]
+        }
+      ]
+    }
+  }
+}

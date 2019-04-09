@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011877091000",
+  "news_prearranged_time": "2019-04-09 16:50:00",
+  "title": "渋谷の交差点にベッドを置くビデオがインターネットに出る",
+  "title_with_ruby": "<ruby>渋谷<rt>しぶや</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>にベッドを<ruby>置<rt>お</rt></ruby>くビデオがインターネットに<ruby>出<rt>で</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷駅<rt>しぶやえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>には、とてもたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>る<ruby>交差点<rt>こうさてん</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190408/../20190408/K10011877091_1904081720_1904081721_01_02.jpg",
+  "news_web_movie_uri": "k10011877091_201904081815_201904081816.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011877091000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011877091000/k10011877091000.html"
+}

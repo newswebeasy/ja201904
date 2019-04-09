@@ -61,6 +61,18 @@
   ],
   "relationLink": [
     {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011875641000/k10011875641000.html",
+      "title": "伊香保温泉 外国人がバスを自由に利用できる切符",
+      "time": "NEWSWEB EASY 4月9日",
+      "datetime": "2019-04-09"
+    },
+    {
+      "link": "https://www3.nhk.or.jp/news/special/heisei/interview/interview_05.html",
+      "title": "尾木直樹さん「なんていう不幸せな時代」",
+      "time": "平成-次代の道標-",
+      "datetime": ""
+    },
+    {
       "link": "https://www3.nhk.or.jp/news/special/news_seminar/",
       "title": "大学生とつくる就活応援ニュースゼミ",
       "time": "",
@@ -72,5 +84,5 @@
   "yyyy": "2019",
   "mm": "04",
   "dd": "07",
-  "url": "https://www3.nhk.or.jp/news/html/20190407/k10011875641000.html?utm_int=news-new_contents_list-items_072"
+  "url": "https://www3.nhk.or.jp/news/html/20190407/k10011875641000.html"
 }

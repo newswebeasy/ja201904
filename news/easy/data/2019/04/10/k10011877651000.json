@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011877651000",
+  "news_prearranged_time": "2019-04-10 11:30:00",
+  "title": "警察庁　ドローンを使ったテロがないように新しい機械を使う",
+  "title_with_ruby": "<ruby>警察庁<rt>けいさつちょう</rt></ruby>　ドローンを<ruby>使<rt>つか</rt></ruby>ったテロがないように<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>警察庁<rt>けいさつちょう</rt></ruby></a>はドローンを<ruby>使<rt>つか</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>事件<rt>じけん</rt></ruby></a>などがないように、<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことにしました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190409/../20190409/K10011877651_1904090541_1904090544_01_03.jpg",
+  "news_web_movie_uri": "k10011877651_201904090541_201904090544.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011877651000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011877651000/k10011877651000.html"
+}

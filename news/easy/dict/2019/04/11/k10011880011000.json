@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。",
+          "hyouki": [
+            "ノーベル賞"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>発明</rb><rt>はつめい</rt></ruby>した<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>政府</rb><rt>せいふ</rt></ruby>が、その<ruby><rb>発明</rb><rt>はつめい</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>にだけ、それを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>権利</rb><rt>けんり</rt></ruby>を<ruby><rb>認</rb><rt>みと</rt></ruby>めること。パテント。",
+          "hyouki": [
+            "特許"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>をすること。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて<ruby><rb>約束</rb><rt>やくそく</rt></ruby>すること。",
+          "hyouki": [
+            "契約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。",
+          "hyouki": [
+            "治療"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。",
+          "hyouki": [
+            "分ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。",
+          "hyouki": [
+            "分ける"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>などで、<ruby><rb>事件</rb><rt>じけん</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>の、<ruby><rb>権利</rb><rt>けんり</rt></ruby>や<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>本人</rb><rt>ほんにん</rt></ruby>の<ruby><rb>代理</rb><rt>だいり</rt></ruby>や<ruby><rb>弁護</rb><rt>べんご</rt></ruby>をする<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "弁護士"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ]
+    }
+  }
+}

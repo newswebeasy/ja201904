@@ -1,0 +1,146 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>基本</rb><rt>きほん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１リットルは、１０００<ruby><rb>立方</rb><rt>りっぽう</rt></ruby>センチメートル。一<ruby><rb>辺</rb><rt>ぺん</rt></ruby>が１０センチメートルの<ruby><rb>立方体</rb><rt>りっぽうたい</rt></ruby>の<ruby><rb>体積</rb><rt>たいせき</rt></ruby>を１リットルとする。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「L」。",
+          "hyouki": [
+            "リットル"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>口</rb><rt>くち</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "蓋"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ]
+    }
+  }
+}

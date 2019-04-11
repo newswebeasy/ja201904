@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011879971000",
+  "news_prearranged_time": "2019-04-11 16:35:00",
+  "title": "世界で初めてブラックホールの画像を撮る",
+  "title_with_ruby": "<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてブラックホールの<ruby>画像<rt>がぞう</rt></ruby>を<ruby>撮<rt>と</rt></ruby>る",
+  "outline_with_ruby": "<p>ブラックホールはとても<ruby>強<rt>つよ</rt></ruby>い<ruby>力<rt>ちから</rt></ruby>で<ruby>光<rt>ひかり</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>電波<rt>でんぱ</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>吸<rt>す</rt></ruby>い<ruby>込<rt>こ</rt></ruby>む</a>ため、<ruby>見<rt>み</rt></ruby>ることができません。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190410/../20190410/K10011879971_1904102352_1904110001_01_03.jpg",
+  "news_web_movie_uri": "k10011879971_201904110611_201904110613.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011879971000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011879971000/k10011879971000.html"
+}

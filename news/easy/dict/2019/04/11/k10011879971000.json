@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>にかいた、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "画像"
+          ]
+        },
+        {
+          "def": "テレビなどの<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "画像"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>速</rb><rt>はや</rt></ruby>さで<ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>運動</rb><rt>うんどう</rt></ruby>している<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>波</rb><rt>なみ</rt></ruby>。<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>電磁波</rb><rt>でんじは</rt></ruby>。",
+          "hyouki": [
+            "電波"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>吸</rb><rt>す</rt></ruby>って<ruby><rb>中</rb><rt>なか</rt></ruby>へ<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "吸い込む"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。",
+          "hyouki": [
+            "南アメリカ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>筒</rb><rt>つつ</rt></ruby>にレンズや<ruby><rb>反射鏡</rb><rt>はんしゃきょう</rt></ruby>をはめて、<ruby><rb>遠</rb><rt>とお</rt></ruby>くのものを<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>えるようにした<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "望遠鏡"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>海</rb><rt>うみ</rt></ruby>・<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>などでとれる、<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>など。",
+          "hyouki": [
+            "水産物"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。",
+          "hyouki": [
+            "原子力"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "委員会"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ものごとのなりゆきや、<ruby><rb>結果</rb><rt>けっか</rt></ruby>などを<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、その<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "報告"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "かく。かいたもの。",
+          "hyouki": [
+            "書"
+          ]
+        },
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "書"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>。<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "書"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "まちがえてしまうこと。あやまり。",
+          "hyouki": [
+            "間違い"
+          ]
+        },
+        {
+          "def": "よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。",
+          "hyouki": [
+            "間違い"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>ったり、<ruby><rb>決</rb><rt>き</rt></ruby>めたりしたことを、なかったことにする。",
+          "hyouki": [
+            "取り消す"
+          ]
+        }
+      ]
+    }
+  }
+}

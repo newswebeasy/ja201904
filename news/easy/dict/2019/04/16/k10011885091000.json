@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をだまして、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>ること。",
+          "hyouki": [
+            "詐欺"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "うそをほんとうと<ruby><rb>思</rb><rt>おも</rt></ruby>わせる。",
+          "hyouki": [
+            "だます"
+          ]
+        },
+        {
+          "def": "きげんをとってなだめる。",
+          "hyouki": [
+            "だます"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "うそをほんとうと<ruby><rb>思</rb><rt>おも</rt></ruby>わせる。",
+          "hyouki": [
+            "だます"
+          ]
+        },
+        {
+          "def": "きげんをとってなだめる。",
+          "hyouki": [
+            "だます"
+          ]
+        }
+      ]
+    }
+  }
+}

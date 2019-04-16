@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011885091000",
+  "news_prearranged_time": "2019-04-16 16:55:00",
+  "title": "「中国に詐欺の電話をかけるために台湾から日本へ来た」",
+  "title_with_ruby": "「<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>詐欺<rt>さぎ</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>をかけるために<ruby>台湾<rt>たいわん</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>た」",
+  "outline_with_ruby": "<p><ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台湾<rt>たいわん</rt></ruby>の１０<ruby>人<rt>にん</rt></ruby>が、<ruby>成田空港<rt>なりたくうこう</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るとき<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>書類<rt>しょるい</rt></ruby></a>にうそを<ruby>書<rt>か</rt></ruby>いていた<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>疑<rt>うたが</rt></ruby>い</a>で<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>逮捕<rt>たいほ</rt></ruby></a>されました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190416/../20190416/K10011885091_1904160617_1904160618_01_03.jpg",
+  "news_web_movie_uri": "k10011885091_201904160617_201904160618.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011885091000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011885091000/k10011885091000.html"
+}

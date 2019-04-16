@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>羽</rb><rt>はね</rt></ruby>がうすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の、サギに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>鳥</rb><rt>とり</rt></ruby>。<ruby><rb>特別天然記念物</rb><rt>とくべつてんねんきねんぶつ</rt></ruby>、<ruby><rb>国際保護鳥</rb><rt>こくさいほごちょう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では<ruby><rb>野生</rb><rt>やせい</rt></ruby>のものは<ruby><rb>絶滅</rb><rt>ぜつめつ</rt></ruby>した。",
+          "hyouki": [
+            "とき"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ]
+    }
+  }
+}

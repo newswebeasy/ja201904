@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "塔"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。",
+          "hyouki": [
+            "塔"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。",
+          "hyouki": [
+            "燃える"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。",
+          "hyouki": [
+            "燃える"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "屋根"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。",
+          "hyouki": [
+            "消防"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ある<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>加</rb><rt>くわ</rt></ruby>えられる<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>力</rb><rt>ちから</rt></ruby>。しょうげき。",
+          "hyouki": [
+            "ショック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しいおどろき。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動揺</rb><rt>どうよう</rt></ruby>。",
+          "hyouki": [
+            "ショック"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。",
+          "hyouki": [
+            "UNESCO"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。",
+          "hyouki": [
+            "世界遺産"
+          ]
+        }
+      ]
+    }
+  }
+}

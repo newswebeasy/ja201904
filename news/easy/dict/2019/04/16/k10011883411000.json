@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>いをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>助手</rb><rt>じょしゅ</rt></ruby>。",
+          "hyouki": [
+            "ヘルパー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手助</rb><rt>てだす</rt></ruby>けを<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするお<ruby><rb>年寄</rb><rt>としよ</rt></ruby>りや<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。ホームヘルパー。",
+          "hyouki": [
+            "ヘルパー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。",
+          "hyouki": [
+            "介護"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>でする、<ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>な<ruby><rb>行</rb><rt>おこな</rt></ruby>い。",
+          "hyouki": [
+            "暴力"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>性</rb><rt>せい</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>して<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>不快</rb><rt>ふかい</rt></ruby>にしたり<ruby><rb>不安</rb><rt>ふあん</rt></ruby>にしたりする、いやがらせ。セクハラ。",
+          "hyouki": [
+            "セクシャルハラスメント"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>などの<ruby><rb>説明書</rb><rt>せつめいしょ</rt></ruby>。<ruby><rb>手引</rb><rt>てび</rt></ruby>き。",
+          "hyouki": [
+            "マニュアル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>変速装置</rb><rt>へんそくそうち</rt></ruby>を、<ruby><rb>自動</rb><rt>じどう</rt></ruby>でなく、<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>操作</rb><rt>そうさ</rt></ruby>すること。",
+          "hyouki": [
+            "マニュアル"
+          ]
+        }
+      ]
+    }
+  }
+}

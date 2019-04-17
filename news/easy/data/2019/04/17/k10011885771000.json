@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011885771000",
+  "news_prearranged_time": "2019-04-17 17:05:00",
+  "title": "東京オリンピックの開会式の時間などが決まる",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>などが<ruby>決<rt>き</rt></ruby>まる",
+  "outline_with_ruby": "<p><ruby>来年<rt>らいねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'>オリンピック</a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>開会<rt>かいかい</rt></ruby></a><ruby>式<rt>しき</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>や<ruby>試合<rt>しあい</rt></ruby>をする<ruby>日<rt>ひ</rt></ruby>などが<ruby>決<rt>き</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190416/../20190416/K10011885771_1904161513_1904161514_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011885771000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011885771000/k10011885771000.html"
+}

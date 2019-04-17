@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>帯</rb><rt>おび</rt></ruby>。バンド。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>で、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>固定</rb><rt>こてい</rt></ruby>させるもの。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>で、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>車</rb><rt>くるま</rt></ruby>にかけわたす<ruby><rb>帯</rb><rt>おび</rt></ruby>のようなもの。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>帯</rb><rt>おび</rt></ruby>のように<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "ベルト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>いている<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。おかた。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>用事</rb><rt>ようじ</rt></ruby>などの<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "くせや<ruby><rb>傾向</rb><rt>けいこう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>息</rb><rt>いき</rt></ruby>をはいたり、<ruby><rb>吸</rb><rt>す</rt></ruby>ったりすること。<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>を<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>。<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "こつ。",
+          "hyouki": [
+            "呼吸"
+          ]
+        }
+      ]
+    }
+  }
+}

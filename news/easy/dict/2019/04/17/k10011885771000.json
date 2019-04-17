@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。",
+          "hyouki": [
+            "開会"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わること。また、<ruby><rb>終</rb><rt>お</rt></ruby>わりにすること。",
+          "hyouki": [
+            "閉会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>よりもやわらかい<ruby><rb>大</rb><rt>おお</rt></ruby>きなボールを<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>と<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。また、そのボール。ソフト。",
+          "hyouki": [
+            "ソフトボール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ネットをはさんで、<ruby><rb>羽根</rb><rt>はね</rt></ruby>のついたボール（シャトル）を、ラケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "バドミントン"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "テニスや<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、<ruby><rb>一対一</rb><rt>いったいいち</rt></ruby>でする<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "シングルス"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。",
+          "hyouki": [
+            "卓球"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "４２．１９５キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。",
+          "hyouki": [
+            "マラソン"
+          ]
+        }
+      ],
+      "0016": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ]
+    }
+  }
+}

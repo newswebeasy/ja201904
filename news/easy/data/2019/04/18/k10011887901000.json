@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011887901000",
+  "news_prearranged_time": "2019-04-18 16:30:00",
+  "title": "天皇陛下と皇后さまが伊勢神宮に参拝する",
+  "title_with_ruby": "<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまが<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>に<ruby>参拝<rt>さんぱい</rt></ruby>する",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>天皇<rt>てんのう</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>陛下<rt>へいか</rt></ruby></a>は<ruby>今月<rt>こんげつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>退位<rt>たいい</rt></ruby></a>して、５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>皇太子<rt>こうたいし</rt></ruby></a>さまが<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>天皇<rt>てんのう</rt></ruby></a>になります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190418/../20190418/K10011887901_1904181058_1904181101_01_03.jpg",
+  "news_web_movie_uri": "k10011887901_201904181554_201904181603.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011887901000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011887901000/k10011887901000.html"
+}

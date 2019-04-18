@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くを、ふわふわと<ruby><rb>泳</rb><rt>およ</rt></ruby>いでいる<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>がやわらかく、かさのような<ruby><rb>形</rb><rt>かたち</rt></ruby>をしている。",
+          "hyouki": [
+            "くらげ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>にいるサンゴチュウという<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>群</rb><rt>む</rt></ruby>れをなして、<ruby><rb>海底</rb><rt>かいてい</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>などにつき、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>したもの。また、それが<ruby><rb>死</rb><rt>し</rt></ruby>んで<ruby><rb>残</rb><rt>のこ</rt></ruby>った<ruby><rb>骨</rb><rt>ほね</rt></ruby>のようなもの。",
+          "hyouki": [
+            "珊瑚"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>についている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>筒形</rb><rt>つつがた</rt></ruby>をし、<ruby><rb>口</rb><rt>くち</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにたくさんの<ruby><rb>触手</rb><rt>しょくしゅ</rt></ruby>がある。<ruby><rb>触手</rb><rt>しょくしゅ</rt></ruby>にえさがふれると、きんちゃくのように<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>めてとる。",
+          "hyouki": [
+            "いそぎんちゃく"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。",
+          "hyouki": [
+            "生き物"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。",
+          "hyouki": [
+            "底"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "めいめい。おのおの。",
+          "hyouki": [
+            "それぞれ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。",
+          "hyouki": [
+            "筋肉"
+          ]
+        }
+      ]
+    }
+  }
+}

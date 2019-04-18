@@ -1,0 +1,184 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇帝</rb><rt>こうてい</rt></ruby>の<ruby><rb>妻</rb><rt>つま</rt></ruby>。きさき。",
+          "hyouki": [
+            "皇后"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>や<ruby><rb>寺</rb><rt>てら</rt></ruby>にお<ruby><rb>参</rb><rt>まい</rt></ruby>りすること。",
+          "hyouki": [
+            "参拝"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国王</rb><rt>こくおう</rt></ruby>などが<ruby><rb>位</rb><rt>くらい</rt></ruby>を<ruby><rb>退</rb><rt>しりぞ</rt></ruby>くこと。",
+          "hyouki": [
+            "退位"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>で、あとつぎになる<ruby><rb>皇子</rb><rt>おうじ</rt></ruby>。",
+          "hyouki": [
+            "皇太子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>。",
+          "hyouki": [
+            "皇室"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>のいちばん<ruby><rb>初</rb><rt>はじ</rt></ruby>めの<ruby><rb>人</rb><rt>ひと</rt></ruby>。また、<ruby><rb>今</rb><rt>いま</rt></ruby>より<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "祖先"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばんの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。",
+          "hyouki": [
+            "祖先"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>先祖</rb><rt>せんぞ</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby>を、<ruby><rb>供</rb><rt>そな</rt></ruby>え<ruby><rb>物</rb><rt>もの</rt></ruby>やにぎやかなもよおしをしてなぐさめる。",
+          "hyouki": [
+            "祭る"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に<ruby><rb>神</rb><rt>かみ</rt></ruby>としておさめて、<ruby><rb>敬</rb><rt>うやま</rt></ruby>う。",
+          "hyouki": [
+            "祭る"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。",
+          "hyouki": [
+            "地方"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。",
+          "hyouki": [
+            "旗"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "つける。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "むだにする。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "振る"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "国民"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ]
+    }
+  }
+}

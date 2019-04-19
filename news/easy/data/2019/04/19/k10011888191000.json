@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011888191000",
+  "news_prearranged_time": "2019-04-19 16:50:00",
+  "title": "台湾で大きな地震　１７人がけが",
+  "title_with_ruby": "<ruby>台湾<rt>たいわん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>　１７<ruby>人<rt>にん</rt></ruby>がけが",
+  "outline_with_ruby": "<p><ruby>台湾<rt>たいわん</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>２<ruby>時<rt>じ</rt></ruby>ごろ、<a href='javascript:void(0)' class='dicWin' id='id-0000'>マグニチュード</a>６．１の<ruby>地震<rt>じしん</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190418/../20190418/K10011888191_1904181501_1904181502_01_02.jpg",
+  "news_web_movie_uri": "k10011888191_201904181920_201904181941.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011888191000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011888191000/k10011888191000.html"
+}

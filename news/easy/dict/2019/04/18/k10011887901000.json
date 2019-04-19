@@ -51,42 +51,6 @@
       ],
       "0006": [
         {
-          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>。",
-          "hyouki": [
-            "皇室"
-          ]
-        }
-      ],
-      "0007": [
-        {
-          "def": "その<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>のいちばん<ruby><rb>初</rb><rt>はじ</rt></ruby>めの<ruby><rb>人</rb><rt>ひと</rt></ruby>。また、<ruby><rb>今</rb><rt>いま</rt></ruby>より<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
-          "hyouki": [
-            "祖先"
-          ]
-        },
-        {
-          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばんの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。",
-          "hyouki": [
-            "祖先"
-          ]
-        }
-      ],
-      "0008": [
-        {
-          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>先祖</rb><rt>せんぞ</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby>を、<ruby><rb>供</rb><rt>そな</rt></ruby>え<ruby><rb>物</rb><rt>もの</rt></ruby>やにぎやかなもよおしをしてなぐさめる。",
-          "hyouki": [
-            "祭る"
-          ]
-        },
-        {
-          "def": "ある<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に<ruby><rb>神</rb><rt>かみ</rt></ruby>としておさめて、<ruby><rb>敬</rb><rt>うやま</rt></ruby>う。",
-          "hyouki": [
-            "祭る"
-          ]
-        }
-      ],
-      "0009": [
-        {
           "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
           "hyouki": [
             "地方"
@@ -99,7 +63,7 @@
           ]
         }
       ],
-      "0010": [
+      "0007": [
         {
           "def": "<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。",
           "hyouki": [
@@ -107,7 +71,7 @@
           ]
         }
       ],
-      "0011": [
+      "0008": [
         {
           "def": "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
           "hyouki": [
@@ -151,7 +115,7 @@
           ]
         }
       ],
-      "0012": [
+      "0009": [
         {
           "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
           "hyouki": [
@@ -159,7 +123,7 @@
           ]
         }
       ],
-      "0013": [
+      "0010": [
         {
           "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
           "hyouki": [

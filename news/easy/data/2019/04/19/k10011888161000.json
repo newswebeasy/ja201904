@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011888161000",
+  "news_prearranged_time": "2019-04-19 16:50:00",
+  "title": "東京オリンピック　チケットの申し込みは５月９日から",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　チケットの<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みは５<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>から",
+  "outline_with_ruby": "<p><ruby>来年<rt>らいねん</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0002'>オリンピック</a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>チケット</a>を<ruby>売<rt>う</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0003'>ウェブサイト</a>ができました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190418/../20190418/K10011888161_1904181431_1904181433_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011888161000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011888161000/k10011888161000.html"
+}

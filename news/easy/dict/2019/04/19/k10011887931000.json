@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。",
+          "hyouki": [
+            "文部科学省"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>して、<ruby><rb>身</rb><rt>み</rt></ruby>につけた<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "学力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "それぞれの<ruby><rb>国</rb><rt>くに</rt></ruby>で、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>たちに<ruby><rb>使</rb><rt>つか</rt></ruby>われていることば。",
+          "hyouki": [
+            "国語"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>われていることば。<ruby><rb>日本語</rb><rt>にほんご</rt></ruby>。",
+          "hyouki": [
+            "国語"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で、<ruby><rb>日本語</rb><rt>にほんご</rt></ruby>を<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>する<ruby><rb>教科</rb><rt>きょうか</rt></ruby>。<ruby><rb>国語科</rb><rt>こくごか</rt></ruby>。",
+          "hyouki": [
+            "国語"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>の<ruby><rb>科目</rb><rt>かもく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>数</rb><rt>かず</rt></ruby>の<ruby><rb>計算</rb><rt>けいさん</rt></ruby>や<ruby><rb>図形</rb><rt>ずけい</rt></ruby>など、<ruby><rb>初歩</rb><rt>しょほ</rt></ruby>の<ruby><rb>数学</rb><rt>すうがく</rt></ruby>を<ruby><rb>習</rb><rt>なら</rt></ruby>う。",
+          "hyouki": [
+            "算数"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さなスピーカーを<ruby><rb>耳</rb><rt>みみ</rt></ruby>に<ruby><rb>当</rb><rt>あ</rt></ruby>てる<ruby><rb>装置</rb><rt>そうち</rt></ruby>。ステレオを<ruby><rb>独</rb><rt>ひと</rt></ruby>りで<ruby><rb>聞</rb><rt>き</rt></ruby>くときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ヘッドホン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "レコードやテープなどに<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>収</rb><rt>おさ</rt></ruby>めること。また、その<ruby><rb>音</rb><rt>おと</rt></ruby>。",
+          "hyouki": [
+            "録音"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ]
+    }
+  }
+}

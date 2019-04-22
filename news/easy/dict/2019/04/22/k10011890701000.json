@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さ。",
+          "hyouki": [
+            "体重"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>背</rb><rt>せ</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。<ruby><rb>背</rb><rt>せ</rt></ruby>たけ。",
+          "hyouki": [
+            "身長"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "抱く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。",
+          "hyouki": [
+            "抱く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。",
+          "hyouki": [
+            "ミルク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>をにつめたり、<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたりしたもの。",
+          "hyouki": [
+            "ミルク"
+          ]
+        }
+      ]
+    }
+  }
+}

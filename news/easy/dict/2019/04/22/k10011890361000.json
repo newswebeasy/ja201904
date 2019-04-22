@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>三角</rb><rt>さんかく</rt></ruby>の<ruby><rb>帆</rb><rt>ほ</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、<ruby><rb>風</rb><rt>かぜ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>走</rb><rt>はし</rt></ruby>る、<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>ふうの<ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>船</rb><rt>ふね</rt></ruby>。",
+          "hyouki": [
+            "ヨット"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "もうだめだと<ruby><rb>思</rb><rt>おも</rt></ruby>って、やめる。",
+          "hyouki": [
+            "諦める"
+          ]
+        }
+      ]
+    }
+  }
+}

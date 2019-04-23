@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>縦横</rb><rt>たてよこ</rt></ruby>に１９<ruby><rb>本</rb><rt>ほん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>盤</rb><rt>ばん</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>二人</rb><rt>ふたり</rt></ruby>で<ruby><rb>代</rb><rt>か</rt></ruby>わる<ruby><rb>代</rb><rt>が</rt></ruby>わるに<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>地</rb><rt>じ</rt></ruby>）を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うゲーム。<ruby><rb>囲碁</rb><rt>いご</rt></ruby>。",
+          "hyouki": [
+            "碁"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。",
+          "hyouki": [
+            "緊張"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。",
+          "hyouki": [
+            "緊張"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>残念</rb><rt>ざんねん</rt></ruby>だ。しゃくにさわる。",
+          "hyouki": [
+            "悔しい"
+          ]
+        }
+      ]
+    }
+  }
+}

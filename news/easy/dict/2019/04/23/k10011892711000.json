@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>指図</rb><rt>さしず</rt></ruby>する<ruby><rb>役目</rb><rt>やくめ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>重役</rb><rt>じゅうやく</rt></ruby>。",
+          "hyouki": [
+            "取締役"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。",
+          "hyouki": [
+            "株式"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "考え"
+          ]
+        }
+      ]
+    }
+  }
+}

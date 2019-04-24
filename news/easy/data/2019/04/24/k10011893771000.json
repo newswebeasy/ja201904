@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011893771000",
+  "news_prearranged_time": "2019-04-24 17:00:00",
+  "title": "フィリピンで大きな地震　１６人が亡くなる",
+  "title_with_ruby": "フィリピンで<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>　１６<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる",
+  "outline_with_ruby": "<p>２２<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、フィリピンのルソン<ruby>島<rt>とう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>マグニチュード</a>６．１の<ruby>地震<rt>じしん</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190423/../20190423/K10011893771_1904231925_1904231930_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011893771000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011893771000/k10011893771000.html"
+}

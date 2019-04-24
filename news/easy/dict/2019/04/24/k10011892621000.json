@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>したり、<ruby><rb>預</rb><rt>あず</rt></ruby>かったりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするところ。<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>・<ruby><rb>保険会社</rb><rt>ほけんがいしゃ</rt></ruby>など。",
+          "hyouki": [
+            "金融機関"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。",
+          "hyouki": [
+            "口座"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ]
+    }
+  }
+}

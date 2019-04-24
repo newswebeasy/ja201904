@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>、また<ruby><rb>意見</rb><rt>いけん</rt></ruby>や<ruby><rb>案</rb><rt>あん</rt></ruby>などを、<ruby><rb>選</rb><rt>えら</rt></ruby>んで<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げること。",
+          "hyouki": [
+            "採用"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のあるようす。",
+          "hyouki": [
+            "国際的"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとを<ruby><rb>成</rb><rt>な</rt></ruby>しとげることのできる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "能力"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>残念</rb><rt>ざんねん</rt></ruby>だ。しゃくにさわる。",
+          "hyouki": [
+            "悔しい"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>車道</rb><rt>しゃどう</rt></ruby>をわたれるように、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にしるしをつけた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "横断歩道"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>泣</rb><rt>な</rt></ruby>いたときや<ruby><rb>目</rb><rt>め</rt></ruby>にごみが<ruby><rb>入</rb><rt>はい</rt></ruby>ったときなどに、<ruby><rb>目</rb><rt>め</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>水</rb><rt>みず</rt></ruby>のようなもの。",
+          "hyouki": [
+            "涙"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "これから<ruby><rb>先</rb><rt>さき</rt></ruby>のこと。<ruby><rb>将来</rb><rt>しょうらい</rt></ruby>。",
+          "hyouki": [
+            "未来"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ]
+    }
+  }
+}

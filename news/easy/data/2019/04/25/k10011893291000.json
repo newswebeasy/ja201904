@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011893291000",
+  "news_prearranged_time": "2019-04-25 11:30:00",
+  "title": "珍しいコククジラが伊豆諸島の海で泳いでいた",
+  "title_with_ruby": "<ruby>珍<rt>めずら</rt></ruby>しいコククジラが<ruby>伊豆諸島<rt>いずしょとう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>いでいた",
+  "outline_with_ruby": "<p>コククジラは<ruby>北<rt>きた</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>太平洋<rt>たいへいよう</rt></ruby></a>にいる<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>鯨<rt>くじら</rt></ruby></a>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190423/../20190423/K10011893291_1904231242_1904231258_01_02.jpg",
+  "news_web_movie_uri": "k10011893291_201904231422_201904231422.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011893291000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011893291000/k10011893291000.html"
+}

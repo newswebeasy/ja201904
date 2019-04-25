@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。<ruby><rb>領土</rb><rt>りょうど</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>。",
+          "hyouki": [
+            "国内"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "あっさりしている。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "泊"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ]
+    }
+  }
+}

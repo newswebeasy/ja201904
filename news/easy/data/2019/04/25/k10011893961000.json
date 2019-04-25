@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011893961000",
+  "news_prearranged_time": "2019-04-25 11:30:00",
+  "title": "旅行の計画をしやすくするインターネットの新しいサービス",
+  "title_with_ruby": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>をしやすくするインターネットの<ruby>新<rt>あたら</rt></ruby>しいサービス",
+  "outline_with_ruby": "<p><ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>国内<rt>こくない</rt></ruby></a>で１<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>泊<rt>ぱく</rt></ruby></a><ruby>以上<rt>いじょう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>があまり<ruby>増<rt>ふ</rt></ruby>えていません。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190424/../20190424/K10011893961_1904232235_1904232237_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011893961000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011893961000/k10011893961000.html"
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011895461000",
+  "news_prearranged_time": "2019-04-26 11:30:00",
+  "title": "広島の原爆資料館が新しくなった",
+  "title_with_ruby": "<ruby>広島<rt>ひろしま</rt></ruby>の<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しくなった",
+  "outline_with_ruby": "<p><ruby>広島市<rt>ひろしまし</rt></ruby>の<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>は１９５５<ruby>年<rt>ねん</rt></ruby>にできました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190425/../20190425/K10011895461_1904242218_1904250616_01_02.jpg",
+  "news_web_movie_uri": "k10011895461_201904250621_201904250952.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011895461000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011895461000/k10011895461000.html"
+}

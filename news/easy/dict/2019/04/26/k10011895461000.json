@@ -1,0 +1,164 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "いくつかある<ruby><rb>建物</rb><rt>たてもの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>主</rb><rt>しゅ</rt></ruby>になる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        },
+        {
+          "def": "この<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>当館</rb><rt>とうかん</rt></ruby>。",
+          "hyouki": [
+            "本館"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "展示"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>物</rb><rt>もの</rt></ruby>の）すみ。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>のコースで、<ruby><rb>曲</rb><rt>ま</rt></ruby>がり<ruby><rb>角</rb><rt>かど</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ホームベースの<ruby><rb>角</rb><rt>かど</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "ボクシングなどで、<ruby><rb>四角</rb><rt>しかく</rt></ruby>いリングのすみ。",
+          "hyouki": [
+            "コーナー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>展示</rb><rt>てんじ</rt></ruby>したりするために、<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "コーナー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>や<ruby><rb>建築</rb><rt>けんちく</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>鉄</rb><rt>てつ</rt></ruby>の<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。",
+          "hyouki": [
+            "鉄材"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>帯</rb><rt>おび</rt></ruby>。バンド。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>で、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>固定</rb><rt>こてい</rt></ruby>させるもの。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>で、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>車</rb><rt>くるま</rt></ruby>にかけわたす<ruby><rb>帯</rb><rt>おび</rt></ruby>のようなもの。",
+          "hyouki": [
+            "ベルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>帯</rb><rt>おび</rt></ruby>のように<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "ベルト"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ]
+    }
+  }
+}
